@@ -23,7 +23,7 @@ A modern, highly user-friendly, and super easy mobile productivity app designed 
 ### 1. Shift & Fixed Timings Setup
 Easily configure your custom check-in, check-out, and break intervals with a very clean and user-friendly interface.
 <p align="center">
-  <img src="screenshots/Screenshot from 2026-10-04 16-21-07.png" width="280" alt="Fixed Timings">
+  <img src="screenshots/shot1.png" width="280" alt="Fixed Timings">
 </p>
 
 ---
@@ -31,7 +31,7 @@ Easily configure your custom check-in, check-out, and break intervals with a ver
 ### 2. Live Console Dashboard
 Your everyday real-time tracking hub featuring instant Check-in/Check-out buttons and a quick toggle for **Overtime (OT) Mode**. Super easy to navigate!
 <p align="center">
-  <img src="screenshots/Screenshot from 2026-10-04 16-21-14.png" width="280" alt="Console Dashboard">
+  <img src="screenshots/shot2.png" width="280" alt="Console Dashboard">
 </p>
 
 ---
@@ -39,7 +39,7 @@ Your everyday real-time tracking hub featuring instant Check-in/Check-out button
 ### 3. Shift Calendar Integration
 A built-in visual monthly calendar that automatically keeps track of your present days, absences, and scheduled offs.
 <p align="center">
-  <img src="screenshots/Screenshot from 2026-10-04 16-21-18.png" width="280" alt="Shift Calendar">
+  <img src="screenshots/shot3.png" width="280" alt="Shift Calendar">
 </p>
 
 ---
@@ -47,7 +47,7 @@ A built-in visual monthly calendar that automatically keeps track of your presen
 ### 4. Smart Automation (Auto Mode)
 Enable Auto Mode and let the app handle your shift execution automatically. It makes tracking completely effortless without manual daily clicks!
 <p align="center">
-  <img src="screenshots/Screenshot from 2026-10-04 16-25-18.png" width="280" alt="Auto Mode">
+  <img src="screenshots/shot4.png" width="280" alt="Auto Mode">
 </p>
 
 ---
@@ -55,7 +55,7 @@ Enable Auto Mode and let the app handle your shift execution automatically. It m
 ### 5. Joining Declaration & Customization
 Includes built-in professional declaration templates and supports flexible interface layouts to match your personal workspace preference.
 <p align="center">
-  <img src="screenshots/Screenshot from 2026-10-04 16-21-44.png" width="280" alt="Joining Declaration">
+  <img src="screenshots/shot5.png" width="280" alt="Joining Declaration">
 </p>
 
 ---
